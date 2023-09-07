@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisero21&hide=pascal,javascript,html,css,typescript,scss&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisero21&hide=pascal,javascript,html,css,typescript,scss&theme=radical&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisero21&show_icons=true&theme=radical)
 
 <!--
