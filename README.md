@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisero21&hide=pascal,scss&theme=radical&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisero21&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![denisero's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisero21&show_icons=true&theme=radical)
 
